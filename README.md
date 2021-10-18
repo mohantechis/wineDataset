@@ -14,7 +14,7 @@
 
 # This Model does Wine Classification using Logistic Regression
 1. We pass various values in the parameters and we can check if it belongs to class 0,1 or 2.
-2. You can access the model on the followingM link: https://wikiwini.herokuapp.com/
+2. You can access the model on the followingM link: https://winedataset.herokuapp.com/
 
 
 
